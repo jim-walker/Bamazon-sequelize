@@ -1,25 +1,25 @@
 {
   "development": {
-    "username": "root",
-    "password": "Fakepassword!",
-    "database": "bamazon",
-    "host": "localhost",
+    "username": "be6hnf1wfrm2cihg",
+    "password": "z1mcni5k21tukiby",
+    "database": "bj06x1khqhwbz9h2",
+    "host": "l7cup2om0gngra77.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
     "port": 3306,
     "dialect": "mysql",
     "logging": false
   },
   "test": {
-    "username": "root",
-    "password": null,
-    "database": "bamazon",
-    "host": "127.0.0.1",
+    "username": "be6hnf1wfrm2cihg",
+    "password": z1mcni5k21tukiby,
+    "database": "bj06x1khqhwbz9h2",
+    "host": "l7cup2om0gngra77.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
     "dialect": "mysql"
   },
   "production": {
-    "username": "root",
-    "password": null,
-    "database": "bamazon",
-    "host": "127.0.0.1",
+    "username": "be6hnf1wfrm2cihg",
+    "password": z1mcni5k21tukiby,
+    "database": "bj06x1khqhwbz9h2",
+    "host": "l7cup2om0gngra77.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
     "dialect": "mysql"
   }
 }
